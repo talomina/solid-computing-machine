@@ -1,0 +1,84 @@
+    1  sudo yum update -y
+    2  sodo amazon-linux-extras install docker
+    3  sudo amazon-linux-extras install docker
+    4  sudo service docker start
+    5  docker info
+    6  curl http://localhost:3000
+    7  ls
+    8  cd amplifyapp/
+    9  ls
+   10  ls -la
+   11  more .git
+   12  ls .git
+   13  git init
+   14  git remote add origin git@github.com/talomina/solid-computing-machine.git
+   15  git clear
+   16  git clean
+   17  rm -rd .git
+   18  pwd
+   19  git init
+   20  git remote add origin git@github.com/talomina/solid-computing-machine.git
+   21  git add .
+   22  git commit -m "initial commit"
+   23  git push origin master
+   24  git remote add origin https://github.com/talomina/solid-computing-machine.git
+   25  rm -rd .git
+   26  git init
+   27  git remote add origin https://github.com/talomina/solid-computing-machine.git
+   28  git add .
+   29  git commit -m "initial commit"
+   30  git branch -M main
+   31  git push -u origin main
+   32  ls
+   33  vi src/App.js
+   34  git add .
+   35  git commit -m "second commit"
+   36  git branch -M main
+   37  git push -u origin main
+   38  history
+   39  sudo yum update
+   40  history
+   41  docker info
+   42  node -v;
+   43  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh
+   44  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+   45  ls
+   46  ls -la
+   47  . ~/.nvm/nvm.sh
+   48  nvm install node
+   49  node -e "console.log('Running Node.js ' + process.version)"
+   50  npx create-react-app amplifyapp
+   51  cd amplifyapp
+   52  ls ..
+   53  ls
+   54  npm start
+   55  pwd
+   56  ls
+   57  git init
+   58  sudo yum install git
+   59  git init
+   60  git remote add main git@github.com/talomina/glowing-telegram
+   61  git add .
+   62  git commit - "aaa"
+   63  git commit -m "aaaaa"
+   64  git status
+   65  git push main
+   66  git push main master
+   67  history
+   68  git init
+   69  git remote add origin https://github.com/talomina/solid-computing-machine.git
+   70  git add .
+   71  git commit -m "first commit"
+   72  git init
+   73  git add .
+   74  git commit -m "first commit"
+   75  git push -u origin main
+   76  git status
+   77  pwd
+   78  ls
+   79  git add README.md 
+   80  git commit -m "first commit"
+   81  git status
+   82  sudo yum update
+   83  history
+   84  history > hist.log
